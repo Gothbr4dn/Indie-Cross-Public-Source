@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["snake-eyes", "cupheadP1", [146, 113, 253]],
+		["technicolor-tussle", "cupheadP1", [146, 113, 253]],
+		["knockout", "cupheadP2", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Cuphead",
+	"weekBefore": "tutorial",
+	"weekName": "Cuphead Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

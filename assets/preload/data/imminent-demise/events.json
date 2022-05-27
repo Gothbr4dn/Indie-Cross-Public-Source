@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "bendy-p1",
+		"player1": "factorybf-P1",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				84600,
+				[
+					[
+						"Change Character",
+						"factorybf-P1",
+						"factorybf-P2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Bendy-P1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "imminent-demise"
+	}
+}

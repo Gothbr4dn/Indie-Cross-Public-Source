@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["whoopee", "sans", [146, 113, 253]],
+		["sansational", "sans", [146, 113, 253]],
+		["final-stretch", "sans", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Sans",
+	"weekBefore": "cuphead",
+	"weekName": "Sans Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Imminent-demise", "dad", [106, 80, 0]],
+		["Terrible-sin", "bendyP1", [106, 80, 0]],
+		["Last-reel", "bendyP1", [106, 80, 0]],
+		["Nightmare-run", "bendyP1", [106, 80, 0]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Bendy",
+	"weekBefore": "sans",
+	"weekName": "Bendy Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
